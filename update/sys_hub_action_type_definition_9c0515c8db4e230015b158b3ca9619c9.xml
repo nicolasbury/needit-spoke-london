@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Get the value of an application property</description>
+        <internal_name>get_property</internal_name>
+        <label_cache>[{"name":"{{action.property}}","label":"action➛Property","type":"action","ref":""}]</label_cache>
+        <latest_snapshot>ab0e6948db8e230015b158b3ca96194c</latest_snapshot>
+        <master_snapshot>7f0e6948db8e230015b158b3ca961999</master_snapshot>
+        <name>Get Property</name>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-23 10:53:07</sys_created_on>
+        <sys_id>9c0515c8db4e230015b158b3ca9619c9</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Get Property</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_293240_needit_sp">9144d188db4e230015b158b3ca9619fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">9144d188db4e230015b158b3ca9619fd</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_9c0515c8db4e230015b158b3ca9619c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-23 12:42:44</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=9c0515c8db4e230015b158b3ca9619c9"/>
+    <sys_variable_value action="delete_multiple" query="document_key=9c0515c8db4e230015b158b3ca9619c9"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_type_definition</document>
+        <document_key>9c0515c8db4e230015b158b3ca9619c9</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-23 12:38:05</sys_created_on>
+        <sys_id>7d0dad08db8e230015b158b3ca961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-23 12:38:05</sys_updated_on>
+        <value>property_value</value>
+        <variable display_value="">7d0dad08db8e230015b158b3ca961930</variable>
+    </sys_variable_value>
+</record_update>
